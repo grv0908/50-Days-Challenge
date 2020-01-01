@@ -3,6 +3,13 @@ package com.grv.day01;
 /**
  * @author Gaurav Rajput
  * Created on 30/12/19
+ *
+ * @link
+ * https://leetcode.com/problems/search-in-rotated-sorted-array/
+ *
+ * Time Complexity : O(log n)
+ * Space Complexity : O(1)
+ *
  */
 class SearchInRotatedSortedArray {
     public int search(int[] nums, int target) {
